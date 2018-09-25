@@ -34,5 +34,29 @@ export const robots = [
     name: 'Cooper Loeads',
     username: 'Coop',
     email: 'coopl@mail.com'
+  },
+  {
+    id: 7,
+    name: 'Bob Circuit',
+    username: 'Bob',
+    email: 'bobc@mail.com'
+  },
+  {
+    id: 8,
+    name: 'Abigail Forne',
+    username: 'Abby',
+    email: 'abbyf@mail.com'
+  },
+  {
+    id: 9,
+    name: 'Sam Sufjani',
+    username: 'Sufjani',
+    email: 'ss@mail.com'
+  },
+  {
+    id: 10,
+    name: 'Lorne Twitchy',
+    username: 'Twitch',
+    email: 'lornet@mail.com'
   }
 ]
